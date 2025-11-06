@@ -1,0 +1,12 @@
+package ex03;
+import ex03.A;
+
+public class D extends  A {
+
+
+        public D() {
+            super();
+            this.field = "value";
+            this.method();
+        }
+    }
