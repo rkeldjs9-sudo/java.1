@@ -1,0 +1,11 @@
+package exam01;
+
+public class CallListener implements OnClickListener {
+	public void OnClick() {
+		System.out.println("make a phone call!!");
+	}
+
+	
+	}
+
+
